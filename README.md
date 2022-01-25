@@ -1,6 +1,6 @@
-# Covid-notify-finalYear-project
-Final year project
-Install python,, virtualenv,, pip.
+## Covid-notify-finalYear-project
+# Final year project
+# Install python,, virtualenv,, pip.
 
 git clone gvv2137/Covid-notify-finalYear-project
 cd Covid-notify-finalYear-project
